@@ -18,3 +18,5 @@ visões das vendas realizadas nos últimos 4 anos (período de 2012 a 2015).
 Deve ser possível segmentar os relatórios de vendas por  diferentes  informações  e  por diferentes  ângulos.  
 Estas  informações  irão  suportar  as estratégias da empresa para o próximo ano.
 Sua fonte de dados é um arquivo Excel com dados coletados do sistema de vendas, CRM e ERP da empresa. 
+
+[link Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjU5MzdmOTEtYmRkNC00YmUxLWI4ODAtN2JmYjAwOGY5MzgxIiwidCI6ImY3YTJhMDMzLTdjOGEtNDI1Ni04Yzg5LTNkN2QyMmY1ZDI4YyIsImMiOjZ9)
